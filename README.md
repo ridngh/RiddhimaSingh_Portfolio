@@ -14,8 +14,8 @@ I’m a second-year student in the MSPPM-DA program at Heinz. Prior to this, I w
 
 # Portfolio
 
-![trees](natural_sankey.jpg)
-<img src="https://github.com/ridngh/RiddhimaSingh_Portfolio/blob/main/natural_sankey.jpg">
+![trees](trees.jpg)
+<img src="https://github.com/ridngh/RiddhimaSingh_Portfolio/blob/main/trees.jpg">
 One of the first in-class exercies was to identify visualtizations we see in our environment. Now I can't help but think about sankey diagrams when I see trees!
 
 ## Assignment 1:
