@@ -11,7 +11,9 @@ I’m a second-year student in the MSPPM-DA program at Heinz. Prior to this, I w
 - The intuition behind good design thinking. I often don't like my own charts and sometiimes feel lost trying to figure out ways to improve them. Hence, I am most excited to learn the process of how to effectively critique and improve designs.
 - Figure out different ways to represent data. I am often stuck using the same charts - histograms, line charts, etc - to communicate my data. Hoping to see a fresh perspective to represent data!
 - I'd like to understand how to make my charts communicate across different audiences. Communicating technical and statistical aspects to decision makers is crucial in the field of publictech and something I hope to actively improve during this course.
-
+  
+I foresee working as a data professional who analyses and visualises data to help policy makers make key decisions.  
+  
 # Portfolio
 
 <img src="trees.jpg" width="500"/>  
