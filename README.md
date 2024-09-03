@@ -13,7 +13,8 @@ I’m a second-year student in the MSPPM-DA program at Heinz. Prior to this, I w
 - I'd like to understand how to make my charts communicate across different audiences. Communicating technical and statistical aspects to decision makers is crucial in the field of publictech and something I hope to actively improve during this course.
 
 # Portfolio
-<img src="natural_sankey.jpg" width="200"/>
+
+<img src="/natural_sankey.jpg" width="200"/>
 One of the first in-class exercies was to identify visualtizations we see in our environment. Now I can't help but think about sankey diagrams when I see trees!
 
 ## Assignment 1:
