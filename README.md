@@ -21,8 +21,7 @@ One of the first in-class exercies was to identify visualtizations we see in our
 
 ## Assignment 1:
 
-## Assignment 2: 
-(/Visualizing_government_debt_using_Tableau.md)
+## Assignment 2: [Visualizing Government Debt](/Visualizing_government_debt_using_Tableau.md)
 
 ## Assignment 3:
 
