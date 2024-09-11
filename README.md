@@ -19,9 +19,9 @@ I foresee working as a data professional who analyses and visualises data to hel
 <img src="trees.jpg" width="500"/>  
 One of the first in-class exercies was to identify visualtizations we see in our environment. Now I can't help but think about sankey diagrams when I see trees!
 
-## Assignment 1:
+Below is my work that I developed while taking the Telling Stories with Data class at CMU.
 
-## Assignment 2: [Visualizing Government Debt](/Visualizing_government_debt_using_Tableau.md)
+## [Visualizing Government Debt](/Visualizing_government_debt_using_Tableau.md)
 
 ## Assignment 3:
 
