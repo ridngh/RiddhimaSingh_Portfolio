@@ -1,7 +1,7 @@
 # Visualzing General Government Debt
 
 General government debt is the gross debt of the general government as a percentage of GDP. In this excercise, we are visualizing general government debt across years and countries.  
-Data Source used throughout this assignment has been taken from the [OECD](https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2020)
+Data used throughout this assignment is taken from the [OECD](https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2020).
 
 ## Illustration 1: General Government Debt for 2022
 The below image has been directly picked from the OECD website. In 2022, we see that Japan had the highest general debt at 246%. The United States is above the average country debt (bar colored in blue).
