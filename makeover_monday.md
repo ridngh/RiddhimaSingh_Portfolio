@@ -51,7 +51,7 @@ There was confusion created by the title for 2 out of 4 users. The wireframe spe
   
 ### Final Solution  
 From the user interview experience, it was easy to see that bar charts were more intuitive for readers. The areas to improve would be making region - country association more obvious, providing a better title and possibly reducing the data points. One of the users had suggested using different colours for different regions.  
-However, while developing my final solution, I came to the opinion that having just region - country mapping would not be of much value. It would give a sense of geography, but no real inference. Instead if I used a grey-red contrast for each region, the break between regions becomes more focused, and at the same time provides the biggest importer within each region. It also becomes easier to compare biggest importer within region with each other.  
+However, while developing my final solution, I came to the opinion that having just region - country mapping would not be of much value. It would give a sense of geography, but no real inference. Instead if I used a grey-red contrast for each region, the break between regions becomes more obvious, while at the same time we provided the biggest importer within each region. It also becomes easier to compare biggest importer within regions with each other.  
 When using this contrast, I believed that though 25 data points requires scrolling down on the chart, the information itself was not a lot to digest, and hence kept all of them in.
   
 **Final Solution**  
