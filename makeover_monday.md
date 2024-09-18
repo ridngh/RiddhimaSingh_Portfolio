@@ -6,7 +6,7 @@
 [Makeover Monday](https://makeovermonday.co.uk/) is an online community that improves how we visualize data, one chart at a time. The chart I chose from Makeover Monday's repository is part of a Bloomberg article , ["How the US drives Gun Exports"](https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/).
 
 <img src="US Gun Exports.png" width="700"/>
-Source: ["How the US drives Gun Exports"](https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/)
+Source: https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/
 
 The first thing that stood out to me was that the visualization represented a gunshot, which was an aesthetic choice fitting the topic. It made the audience interested in the story and gets across the point that US is a big exporter of firearms.
 
@@ -34,17 +34,17 @@ Bar chart Wireframe
 ### Key takeaways of user interviews
 There was confusion created by the title for 2 out of 4 users. The wireframe specific takeaways are as below.
 
-**Chloropeth Map**
+**Chloropeth Map**  
 - As expected, all 4 of my users were drawn to Canada in the chloropeth map
 - One of my user said, for countries with lower import values, he couldn't differentiate between the reds on the map
 - Another one of my user said, the legend was not helpful
 - None of my users could identify the countries as I had not provided labels
 
-**Graduated Symbol Map**
+**Graduated Symbol Map**  
 - As expected, none of my users could pick up on Thailand. They did not like to compare size of bubbles all over the map.
 - None of my users could identify the countries as I had not provided labels
 
-**Bar Chart**
+**Bar Chart**  
 - It was immediately easy users to pickout Thailand
 - The region was not intuitive to pick from the chart. However when asked, "Do you like having a sense of Geography when talking about the topic of firearm exports", all users said yes.
 - One of the users said it was too many data points
@@ -54,7 +54,7 @@ From the user interview experience, it was easy to see that bar charts were more
 However, while developing my final solution, I came to the opinion that having just region - country mapping would not be of much value. It would give a sense of geography, but no real inference. Instead if I used a grey-red contrast for each region, the break between regions becomes more focused, and at the same time provides the biggest importer within each region. It also becomes easier to compare biggest importer within region with each other.  
 When using this contrast, I believed that though 25 data points requires scrolling down on the chart, the information itself was not a lot to digest, and hence kept all of them in.
 
-**Final Solution**
+**Final Solution**  
 <div class='tableauPlaceholder' id='viz1726695445862' style='position: relative'><noscript><a href='#'><img alt='Thailand is the biggest importer of US manufactured semiautomatic firearmsThe top 25 countries importing firearms from the US come from all parts of the world. These countries together imported 3.7M of US manufactured semiautomatic firearms between 2005 to 2022. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FirearmExports&#47;barchartColor&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FirearmExports&#47;barchartColor' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FirearmExports&#47;barchartColor&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1726695445862');
