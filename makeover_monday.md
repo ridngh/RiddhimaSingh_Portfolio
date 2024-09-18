@@ -5,7 +5,7 @@
 
 [Makeover Monday](https://makeovermonday.co.uk/) is an online community that improves how we visualize data, one chart at a time. The chart I chose from Makeover Monday's repository is part of a Bloomberg article , ["How the US drives Gun Exports"](https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/).
 
-<img src="US Gun Exports.png" width="700"/>
+<img src="US Gun Exports.png" width="700"/>  
 Source: https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/
   
 The first thing that stood out to me was that the visualization represented a gunshot, which was an aesthetic choice fitting the topic. It made the audience interested in the story and gets across the point that US is a big exporter of firearms.
@@ -64,3 +64,5 @@ When using this contrast, I believed that though 25 data points requires scrolli
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+** Tableau did not allow me to adjust position of the "Thailand" label as the pane size was not sufficient.
