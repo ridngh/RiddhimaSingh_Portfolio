@@ -22,13 +22,13 @@ I started to make my wireframes while trying to retain these key pieces of infor
 ### Wireframes  
 Since we are talking about firearms, I thought it would be nice to see the geographical reach that the US has while exporting. The original visualization too tried to retain geography by using direction of lines. Hence I tried a chloropeth and graduated symbol map. I was however quick to realise that the chloropeth did injustice to the data due to variations in size of our shaded regions. Thailand was the biggest exporter, but what stood out was Canada. Similarly, when using graduated symbol maps, it was very difficult to compare countries and draw conclusions due to the sparse data points. Hence, I shifted to a bar chart. Below are all my 3 wireframes that I used to conduct user surveys.
   
-Chloropeth Wireframe  
+**Chloropeth Wireframe**  
 <img src="gun_export_chloropeth_wireframe.png" width="500"/>
   
-Graduated symbol Wireframe  
+**Graduated symbol Wireframe**  
 <img src="gun_export_graduated_symbol_wireframe.png" width="500"/>
   
-Bar chart Wireframe  
+**Bar chart Wireframe**  
 <img src="gun_export_bar_wireframe.png" width="500"/>
   
 ### Key takeaways of user interviews  
