@@ -21,9 +21,11 @@ One of the first in-class exercies was to identify visualtizations we see in our
 
 Below is my work that I developed while taking the Telling Stories with Data class at CMU.
 
+## [Critiques](/Critiques)
+
 ## [Visualizing Government Debt](/Visualizing_government_debt_using_Tableau.md)
 
-## Assignment 3:
+## [Makeover Monday](/makeover_monday.md)
 
 ## Assignment 4:
 
