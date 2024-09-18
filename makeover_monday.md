@@ -3,24 +3,24 @@
 
 ### Introduction
 
-[Makeover Monday](https://makeovermonday.co.uk/) is an online community that improves how we visualize data, one chart at a time. The chart I chose from Makeover Monday's repository is part of a Bloomberg article , ["How the US drives Gun Exports"](https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/).
+[Makeover Monday](https://makeovermonday.co.uk/) is an online community that improves how we visualize data, one chart at a time. The visualization I chose from Makeover Monday's repository is part of a Bloomberg article , ["How the US drives Gun Exports"](https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/).
 
 <img src="US Gun Exports.png" width="700"/>  
 Source: https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/
   
-The first thing that stood out to me was that the visualization represented a gunshot, which was an aesthetic choice fitting the topic. It made the audience interested in the story and gets across the point that US is a big exporter of firearms.
+The first thing that stood out to me was that the visualization represented a gunshot, which was an aesthetic choice fitting the topic. It made the audience interested in the story and got across the point that US is a big exporter of firearms.
   
-What didn't work well was the in order to make the visualization appealing, there was no information provided to read the chart. The way that intuitive for me to read the chart was just to read the labels and marks. The visualization and design of depicting the data itself became meaningless. It was only when I spent a good 4 minutes on the visualization that I realised, the visualization had 3 key components:
+What didn't work well was that in order to make the visualization appealing, there was no information provided to read the chart. The intuitive way for me to read the chart was just to read the labels and marks. The design of the visualization itself became meaningless. It was only when I spent a good 4 minutes on the visualization that I realised, the visualization had 3 key components:
 - thickness of lines to depict the volume of firearm import
 - length of line to depict distance from the US
 - direction of lines to associate countries with the region they belong to
-Another piece of information the chart had was the total number of exported firearms from the US. Looking at the data, I was able to discern that the visualization had top 25 importers. 
+Another piece of information the chart had was the total number of exported firearms from the US. Looking at the data behind the visualization, I was able to discern that the visualization had top 25 importers. 
   
 I started to make my wireframes while trying to retain these key pieces of information.
   
   
 ### Wireframes  
-Since we are talking about firearms, I thought it would be nice to see the geographical reach that the US has while exporting. The original visualization too tried to retain geography by using direction of lines. Hence I tried a chloropeth and graduated symbol map. I was however quick to realise that the chloropeth did injustice to the data due to variations in size of our shaded regions. Thailand was the biggest exporter, but what stood out was Canada. Similarly, when using graduated symbol maps, it was very difficult to compare countries and draw conclusions due to the sparse data points. Hence, I shifted to a bar chart. Below are all my 3 wireframes that I used to conduct user surveys.
+Since we were talking about firearms, I thought it would be nice to see the geographical reach that the US had while exporting. The original visualization too tried to retain geography by using direction of lines. Hence I tried a chloropeth and a graduated symbol map. I was however quick to realise that the chloropeth did injustice to the data due to variations in size of our shaded regions. Thailand was the biggest exporter, but what stood out was Canada. Similarly, when using graduated symbol maps, it was very difficult to compare countries and draw conclusions due to the sparse data points. Hence, I shifted to a bar chart. Below are all my 3 wireframes that I used to conduct user surveys.
   
 **Chloropeth Wireframe**  
 <img src="gun_export_chloropeth_wireframe.png" width="500"/>
