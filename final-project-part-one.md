@@ -16,19 +16,19 @@ The storyboard will follow the below structure:
 
 ## Initial sketches
 - Volume and Pricing Trends
-<img src="volume_pricing_wf.png" width="500"/>
+<img src="volume_pricing_wf.png" width="800"/>
   
 - Revenue Breakdown by Category and Company  
-<img src="category_company_wf" width="500"/>
+<img src="category_company_wf.png" width="500"/>
   
 - Consumer Demographics
-<img src="Consumer_Demognaphic_wf" width="500"/>  
+<img src="Consumer_Demognaphic_wf.png" width="500"/>  
   
 - U.S. vs. Global Confectionery Market Comparison
 Will do a graduated color map on Tableau
   
 - Future Outlook and Market Projections  
-<img src="Future_Outlook_wf" width="500"/>  
+<img src="Future_Outlook_wf.png" width="500"/>  
   
 ## The data
 The data for this project comes from Statista, a leading provider of market and consumer data, and is being used as part of the Iron Viz competition. Iron Viz is a prestigious data visualization competition that encourages participants to create compelling and insightful visualizations using real-world data. Statista offers extensive datasets on industries, including the U.S. confectionery market, which are key to this project.
