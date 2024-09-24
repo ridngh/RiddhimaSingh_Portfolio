@@ -1,6 +1,8 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Sweet Treats: A Data-Driven Exploration of the U.S. Confectionery Market
+( Final Project Part 1)
+
 ## Outline
 This project aims to provide a clear look at the U.S. confectionery market. Using data on revenue, volume, pricing, and consumer demographics, it will show key trends in the industry. The visualization will highlight how changes in product volume and pricing affect sales, as well as which types of confectionery and companies are leading the market. By focusing on these factors, the project will offer insights into what’s driving growth and competition in the U.S. confectionery space.
 
@@ -16,7 +18,7 @@ The storyboard will follow the below structure:
 
 ## Initial sketches
 - Volume and Pricing Trends
-<img src="volume_pricing_wf.png" width="900"/>
+<img src="volume_pricing_wf.png" width="1000"/>
   
 - Revenue Breakdown by Category and Company  
 <img src="category_company_wf.png" width="800"/>
@@ -24,8 +26,8 @@ The storyboard will follow the below structure:
 - Consumer Demographics
 <img src="Consumer_Demognaphic_wf.png" width="500"/>  
   
-- U.S. vs. Global Confectionery Market Comparison
-Will do a graduated color map on Tableau
+- U.S. vs. Global Confectionery Market Comparison  
+A graduated color map on Tableau
   
 - Future Outlook and Market Projections  
 <img src="Future_Outlook_wf.png" width="500"/>  
@@ -39,7 +41,6 @@ Data: [Student IronViz Data](Student IronViz Data.xlsx)
 
 
 ## Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 I will be using Shorthand to create my storyboard.
 
 I expect to use Tableau for the below analyses.
