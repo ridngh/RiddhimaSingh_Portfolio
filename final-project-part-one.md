@@ -16,10 +16,10 @@ The storyboard will follow the below structure:
 
 ## Initial sketches
 - Volume and Pricing Trends
-<img src="volume_pricing_wf.png" width="800"/>
+<img src="volume_pricing_wf.png" width="900"/>
   
 - Revenue Breakdown by Category and Company  
-<img src="category_company_wf.png" width="500"/>
+<img src="category_company_wf.png" width="800"/>
   
 - Consumer Demographics
 <img src="Consumer_Demognaphic_wf.png" width="500"/>  
