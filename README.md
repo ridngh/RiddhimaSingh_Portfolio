@@ -27,6 +27,4 @@ Below is my work that I developed while taking the Telling Stories with Data cla
 
 ## [Makeover Monday](/makeover_monday.md)
 
-## Assignment 4:
-
 ## Final project
