@@ -1,7 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Sweet Treats: A Data-Driven Exploration of the U.S. Confectionery Market
-( Final Project Part 1)
 
 ## Outline
 This project aims to provide a clear look at the U.S. confectionery market. Using data on revenue, volume, pricing, and consumer demographics, it will show key trends in the industry. The visualization will highlight how changes in product volume and pricing affect sales, as well as which types of confectionery and companies are leading the market. By focusing on these factors, the project will offer insights into what’s driving growth and competition in the U.S. confectionery space.
@@ -37,7 +36,7 @@ The data for this project comes from Statista, a leading provider of market and 
 
 The data itself covers various aspects of the confectionery industry, such as revenue, volume, pricing, and consumer demographics. Although the data is aggregated at a high level, it is still broken down into discrete segments like age groups, income levels, and sales categories. To provide actionable insights, I will need to merge these separate datasets, combining factors like revenue and demographics to create my analysis. This process will allow for a deeper understanding of the market and the creation of visualizations that highlight key trends and opportunities.
 
-Data: [Student IronViz Data](Student IronViz Data.xlsx)
+Data: [Student IronViz Data](\Student IronViz Data.xlsx)
 
 
 ## Method and medium
