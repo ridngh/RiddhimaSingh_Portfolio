@@ -47,4 +47,4 @@ I expect to use Tableau for the below analyses.
 - Future Outlook and Market Projections
 - U.S. vs. Global Confectionery Market Comparison
 
-If an opportunity arises, I might tools like Flourish to animate my visualizations.
+If an opportunity arises, I might use tools like Flourish to animate my visualizations.
