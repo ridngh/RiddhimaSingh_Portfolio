@@ -1,36 +1,52 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+# Sweet ~~Treats~~ Trends: A Data-Driven Exploration of the U.S. Confectionery Market
+## Outline
+This project aims to provide a clear look at the U.S. confectionery market. Using data on revenue, volume, pricing, and consumer demographics, it will show key trends in the industry. The visualization will highlight how changes in product volume and pricing affect sales, as well as which types of confectionery and companies are leading the market. By focusing on these factors, the project will offer insights into what’s driving growth and competition in the U.S. confectionery space.
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+The project will also compare the U.S. confectionery market with global markets, helping viewers understand how trends and consumer behavior differ across regions. Finally, it will look at future trends, offering predictions on consumption in the coming years. The visualization is designed for business leaders, market researchers, and analysts who want a better understanding of the current state and future outlook of the confectionery industry.
 
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
-
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
-
-Text here...
+The storyboard will follow the below structure:
+1. Introduction to U.S. Confectionery Market
+2. Volume and Pricing Trends
+3. Revenue Breakdown by Category and Company
+4. Consumer Demographics
+5. U.S. vs. Global Confectionery Market Comparison
+6. Future Outlook and Market Projections
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+- Volume and Pricing Trends
+<img src="volume_pricing_wf.png" width="500"/>
+  
+- Revenue Breakdown by Category and Company  
+<img src="category_company_wf" width="500"/>
+  
+- Consumer Demographics
+<img src="Consumer_Demognaphic_wf" width="500"/>  
+  
+- U.S. vs. Global Confectionery Market Comparison
+Will do a graduated color map on Tableau
+  
+- Future Outlook and Market Projections  
+<img src="Future_Outlook_wf" width="500"/>  
+  
+## The data
+The data for this project comes from Statista, a leading provider of market and consumer data, and is being used as part of the Iron Viz competition. Iron Viz is a prestigious data visualization competition that encourages participants to create compelling and insightful visualizations using real-world data. Statista offers extensive datasets on industries, including the U.S. confectionery market, which are key to this project.
 
-Text here...
+The data itself covers various aspects of the confectionery industry, such as revenue, volume, pricing, and consumer demographics. Although the data is aggregated at a high level, it is still broken down into discrete segments like age groups, income levels, and sales categories. To provide actionable insights, I will need to merge these separate datasets, combining factors like revenue and demographics to create my analysis. This process will allow for a deeper understanding of the market and the creation of visualizations that highlight key trends and opportunities.
 
-# The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+Data: [Student IronViz Data](Student IronViz Data.xlsx)
 
-Text here...
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
-
-# Method and medium
+## Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
+I will be using Shorthand to create my storyboard.
 
-Text here...
+I expect to use Tableau for the below analyses.
+- Volume and Pricing Trends
+- Revenue Breakdown by Category and Company
+- Consumer Demographics
+- Future Outlook and Market Projections
+- U.S. vs. Global Confectionery Market Comparison
+
+If an opportunity arises, I might tools like Flourish to animate my visualizations.
