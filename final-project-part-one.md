@@ -27,8 +27,7 @@ I'd like to see who buys the candies?
 <img src="Consumer_Demognaphic_wf.png" width="500"/>  
   
 - U.S. vs. Global Confectionery Market Comparison  
-I'd like to see how big is the US candy market in comparison to other countries.  
-A graduated color map on Tableau
+I'd like to see how big is the US candy market in comparison to other countries and I'll use a graduated color map on Tableau
   
 - Future Outlook and Market Projections  
 I'd like to see how do we predict the confectionary market to perform in the future.  
