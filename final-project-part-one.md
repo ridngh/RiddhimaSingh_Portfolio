@@ -15,18 +15,23 @@ The storyboard will follow the below structure:
 
 ## Initial sketches
 - Volume and Pricing Trends
+I'd like to understand how price affects demand.
 <img src="volume_pricing_wf.png" width="1000"/>
   
-- Revenue Breakdown by Category and Company  
+- Revenue Breakdown by Category and Company
+I'd like to see which category of candies and companies have seen a growth over the years.  
 <img src="category_company_wf.png" width="800"/>
   
 - Consumer Demographics
+I'd like to see who buys the candies?  
 <img src="Consumer_Demognaphic_wf.png" width="500"/>  
   
-- U.S. vs. Global Confectionery Market Comparison  
+- U.S. vs. Global Confectionery Market Comparison
+I'd like to see how big is the US candy market in comparison to other countries.  
 A graduated color map on Tableau
   
-- Future Outlook and Market Projections  
+- Future Outlook and Market Projections
+I'd like to see how do we predict the confectionary market to perform in the future.  
 <img src="Future_Outlook_wf.png" width="500"/>  
   
 ## The data
