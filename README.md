@@ -1,4 +1,4 @@
-**[Critiques](/Critiques) | [Visualizing Government Debt](/Visualizing_government_debt_using_Tableau.md) | [Makeover Monday](/makeover_monday.md) | [Sweet Treats: A Data-Driven Exploration of the U.S. Confectionery Market](final-project-part-one.md)**
+**[Critiques](/Critiques) || [Visualizing Government Debt](/Visualizing_government_debt_using_Tableau.md) || [Makeover Monday](/makeover_monday.md) || [Sweet Treats: A Data-Driven Exploration of the U.S. Confectionery Market](final-project-part-one.md)**
 
 # Riddhima Singh's Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool visualization work will go. [Chat with me](mailto:riddhims@andrew.cmu.edu) about anything you like/dislike here! 
