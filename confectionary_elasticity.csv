@@ -1,0 +1,49 @@
+,Category,Year,Price,Revenue in Billions ($USD),YoY Revenue Change (%),Average Revenue per Capita ($USD),Volume (in Billion Kg),YoY Volume Change (%),Average Volume per Capita (in Kg)
+0,Chocolate Confectionery,2018.0,14.75,18.79,,56.57,1.27,,3.84
+1,Ice Cream,2018.0,4.23,10.2,,30.7,2.41,,7.25
+2,Preserved Pastry Goods & Cakes,2018.0,8.05,18.0,,54.2,2.24,,6.73
+3,Sugar Confectionery,2018.0,9.43,13.44,,40.48,1.43,,4.29
+4,Chocolate Confectionery,2019.0,15.2,19.31,2.78,57.76,1.27,-0.27,3.8
+5,Ice Cream,2019.0,4.29,11.27,10.52,33.71,2.63,9.04,7.85
+6,Preserved Pastry Goods & Cakes,2019.0,8.3,19.44,8.0,58.16,2.34,4.79,7.01
+7,Sugar Confectionery,2019.0,9.72,14.07,4.68,42.09,1.45,1.57,4.33
+8,Chocolate Confectionery,2020.0,15.54,20.01,3.64,59.57,1.29,1.39,3.83
+9,Ice Cream,2020.0,4.37,11.65,3.4,34.69,2.67,1.5,7.93
+10,Preserved Pastry Goods & Cakes,2020.0,8.48,21.0,8.0,62.51,2.48,5.66,7.37
+11,Sugar Confectionery,2020.0,9.94,13.67,-2.88,40.68,1.38,-4.98,4.1
+12,Chocolate Confectionery,2021.0,16.03,21.33,6.58,63.29,1.33,3.31,3.95
+13,Ice Cream,2021.0,4.48,12.18,4.56,36.16,2.72,1.95,8.06
+14,Preserved Pastry Goods & Cakes,2021.0,8.75,22.84,8.79,67.78,2.61,5.45,7.75
+15,Sugar Confectionery,2021.0,10.25,15.15,10.86,44.96,1.48,7.47,4.39
+16,Chocolate Confectionery,2022.0,17.26,21.7,1.75,64.15,1.26,-5.51,3.72
+17,Ice Cream,2022.0,4.83,12.87,5.6,38.03,2.67,-1.93,7.88
+18,Preserved Pastry Goods & Cakes,2022.0,9.42,24.21,5.98,71.57,2.57,-1.58,7.6
+19,Sugar Confectionery,2022.0,11.04,17.91,18.2,52.94,1.62,9.77,4.8
+20,Chocolate Confectionery,2023.0,17.75,22.43,3.36,65.97,1.26,0.49,3.72
+21,Ice Cream,2023.0,4.97,13.56,5.36,39.87,2.73,2.44,8.03
+22,Preserved Pastry Goods & Cakes,2023.0,9.69,25.58,5.66,75.24,2.64,2.73,7.76
+23,Sugar Confectionery,2023.0,11.35,17.7,-1.16,52.06,1.56,-3.91,4.59
+24,Chocolate Confectionery,2024.0,18.15,23.21,3.46,67.89,1.28,1.17,3.74
+25,Ice Cream,2024.0,5.08,14.27,5.24,41.74,2.81,2.91,8.22
+26,Preserved Pastry Goods & Cakes,2024.0,9.91,27.29,6.66,79.83,2.75,4.31,8.06
+27,Sugar Confectionery,2024.0,11.61,18.78,6.12,54.95,1.62,3.77,4.73
+28,Chocolate Confectionery,2025.0,18.52,24.0,3.42,69.85,1.3,1.39,3.77
+29,Ice Cream,2025.0,5.18,15.01,5.18,43.67,2.9,3.12,8.43
+30,Preserved Pastry Goods & Cakes,2025.0,10.11,29.09,6.59,84.65,2.88,4.5,8.38
+31,Sugar Confectionery,2025.0,11.84,19.92,6.05,57.98,1.68,3.97,4.9
+32,Chocolate Confectionery,2026.0,18.88,24.81,3.39,71.85,1.31,1.39,3.81
+33,Ice Cream,2026.0,5.28,15.78,5.13,45.68,2.99,3.1,8.65
+34,Preserved Pastry Goods & Cakes,2026.0,10.31,30.98,6.53,89.71,3.01,4.47,8.7
+35,Sugar Confectionery,2026.0,12.07,21.11,5.99,61.14,1.75,3.94,5.06
+36,Chocolate Confectionery,2027.0,19.26,25.64,3.35,73.88,1.33,1.32,3.84
+37,Ice Cream,2027.0,5.39,16.58,5.08,47.76,3.08,3.01,8.86
+38,Preserved Pastry Goods & Cakes,2027.0,10.51,32.98,6.46,95.03,3.14,4.37,9.04
+39,Sugar Confectionery,2027.0,12.32,22.37,5.93,64.44,1.82,3.85,5.23
+40,Chocolate Confectionery,2028.0,19.74,26.5,3.32,75.96,1.34,0.79,3.85
+41,Ice Cream,2028.0,5.51,17.41,5.02,49.91,3.16,2.76,9.06
+42,Preserved Pastry Goods & Cakes,2028.0,10.78,35.09,6.39,100.6,3.26,3.79,9.34
+43,Sugar Confectionery,2028.0,12.62,23.68,5.87,67.89,1.88,3.28,5.38
+44,Chocolate Confectionery,2029.0,20.14,27.37,3.29,78.08,1.36,1.24,3.88
+45,Ice Cream,2029.0,5.62,18.27,4.97,52.14,3.25,2.9,9.28
+46,Preserved Pastry Goods & Cakes,2029.0,10.99,37.31,6.33,106.5,3.39,4.23,9.68
+47,Sugar Confectionery,2029.0,12.88,25.05,5.81,71.48,1.95,3.72,5.55
