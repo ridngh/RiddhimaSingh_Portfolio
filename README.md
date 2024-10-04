@@ -28,3 +28,5 @@ Below is my work that I developed while taking the Telling Stories with Data cla
 ## [Makeover Monday](/makeover_monday.md)
 
 ## [Sweet Treats: A Data-Driven Exploration of the U.S. Confectionery Market](final-project-part-one.md): Final Project Part 1
+
+## [Snacking on Campus](final-project-part-two.md): Final Project Part 2
