@@ -1,6 +1,5 @@
 # Wireframes / storyboards
-The wireframe can be found on the below URL
-https://carnegiemellon.shorthandstories.com/snacking_needs_wireframe/index.html
+The wireframe can be found [here](https://carnegiemellon.shorthandstories.com/snacking_needs_wireframe/index.html)
 
 Since the part 1 submission, the audience of the project has been drilled down to the CMU student associations and aim of the project is to advocate for more vending machines that meet late night snacking needs in accordance to the [Ironviz Prompt](DataQuestion.pdf).  
 The wireframe compares the confectionary vs the snack industry, identifies the categories most in demand within the confectionary industry and understands the elasticity of the market for various confectionary categories. 
