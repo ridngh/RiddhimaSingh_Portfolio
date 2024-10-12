@@ -20,7 +20,7 @@ One of the first in-class exercies was to identify visualtizations we see in our
 
 Below is my work that I developed while taking the Telling Stories with Data class at CMU.
 
-## [Critiques](/Critiques)
+## [Critiques](https://github.com/ridngh/RiddhimaSingh_Portfolio/tree/main/Critiques)
 
 ## [Visualizing Government Debt](/Visualizing_government_debt_using_Tableau.md)
 
