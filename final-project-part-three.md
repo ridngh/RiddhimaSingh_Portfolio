@@ -1,4 +1,4 @@
-| [home page](https://ridngh.github.io/RiddhimaSingh_Portfolio/)) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) |
+**[Critiques](https://github.com/ridngh/RiddhimaSingh_Portfolio/tree/main/Critiques) | [Visualizing Government Debt](/Visualizing_government_debt_using_Tableau.md) | [Makeover Monday](/makeover_monday.md) | [Final Project Part 1](final-project-part-one.md) | [Final Project Part 2](final-project-part-two.md) | [Final Project Part 3](final-project-part-three.md)**
 
 # The final data story
 [Addressing food acsess on CMU campus](https://carnegiemellon.shorthandstories.com/addressing-food-access-on-campus/index.html)
