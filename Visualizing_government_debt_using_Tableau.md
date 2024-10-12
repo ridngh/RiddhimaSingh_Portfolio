@@ -1,3 +1,5 @@
+**[Critiques](https://github.com/ridngh/RiddhimaSingh_Portfolio/tree/main/Critiques) | [Visualizing Government Debt](/Visualizing_government_debt_using_Tableau.md) | [Makeover Monday](/makeover_monday.md) | [Final Project Part 1](final-project-part-one.md) | [Final Project Part 2](final-project-part-two.md) | [Final Project Part 3](final-project-part-three.md)**
+
 # Visualzing General Government Debt
 
 General government debt is the gross debt of the general government as a percentage of GDP. In this excercise, we are visualizing general government debt across years and countries.  
