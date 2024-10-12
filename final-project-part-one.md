@@ -1,3 +1,5 @@
+**[Critiques](https://github.com/ridngh/RiddhimaSingh_Portfolio/tree/main/Critiques) | [Visualizing Government Debt](/Visualizing_government_debt_using_Tableau.md) | [Makeover Monday](/makeover_monday.md) | [Final Project Part 1](final-project-part-one.md) | [Final Project Part 2](final-project-part-two.md) | [Final Project Part 3](final-project-part-three.md)**
+
 # Sweet Treats: A Data-Driven Exploration of the U.S. Confectionery Market
 
 ## Outline
